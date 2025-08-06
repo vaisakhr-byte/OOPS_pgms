@@ -1,7 +1,6 @@
 import java.lang.Math;
 import java.time.Year;
 import java.util.Scanner;
-
 class Vehicle {
     String brand;
     String model;
